@@ -1,0 +1,1 @@
+int TOTAL_SOLVED = 35;
